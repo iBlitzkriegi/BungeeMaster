@@ -1,2 +1,2 @@
 # BungeeMaster
-Communicate with your Bungeecord instance with Skript!
+Communicate with your Bungeecord instance via Skript!
